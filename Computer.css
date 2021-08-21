@@ -34,10 +34,11 @@
             }
             #menu1 {
                 background: black;
-                color: white;
+                
                 height 50px;
             }
             #menu1 ul{
+                
                 margin: 0 auto;
             }
             #menu1 #main>li {
@@ -50,9 +51,11 @@
                 position:relative;
             }
             #menu1 #main>li:hover #sub {
+                
                 display: block;
             }
             #menu1 #main>li a {
+                color: white;
                 display: block;
             }
             #menu1 #main>li a:hover {

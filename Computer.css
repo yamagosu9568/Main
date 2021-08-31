@@ -86,14 +86,14 @@
                 margin-top: 200px;
             }
 
-#Computerinformation {
-    text-align: center;
-}
-#Computerinformation > h2 {
-    font-size: 30px;
-    display: inline-block;
-    border: 5px solid red;
-}
+            #Computerinformation {
+                text-align: center;
+            }
+            #Computerinformation > h2 {
+                font-size: 30px;
+                display: inline-block;
+                border: 5px solid red;
+            }
             
            
                

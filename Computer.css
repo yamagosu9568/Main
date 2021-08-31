@@ -20,6 +20,7 @@
                 display: inline-block;
                 margin: 30px;
             }
+            
              h3 {
                 margin-top: 50px;
                 text-align: center;
@@ -84,7 +85,17 @@
                 margin: 100px;
                 margin-top: 200px;
             }
+
+#Computerinformation {
+    text-align: center;
+}
+#Computerinformation > h2 {
+    font-size: 30px;
+    display: inline-block;
+    border: 5px solid red;
+}
+            
            
-                
+               
         
-        </style>
+</style>
